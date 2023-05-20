@@ -19,3 +19,19 @@ You will also need a Raspberry Pi of your choice (I used a Pi Zero W), a screwdr
 
 # Step One: Images
 You'll need to create your own moon images because the ones I have in my project aren't available for public license. You could find 
+Size... Space for quotations... Fonts...
+
+# Step Two: Moon Data
+Give a sample file... Explain about multiple images for the phases as they change...
+
+# Step Three: Quotations
+Explain about font sizes and length of quotations...
+
+# Step Four: Wire it Up
+Link to PiJuice Quick Start Guide https://learn.pi-supply.com/make/pijuice-zero-quick-start-guide/
+Link to PiJuice Pinout https://pinout.xyz/pinout/pijuice
+Link to Pinout guide to connect display to Pi https://www.waveshare.com/wiki/5.65inch_e-Paper_Pi
+
+Systemd!
+
+Once you've got it all set up, realize that when the Pi boots, it'll only run for a few minutes before shutting itself down. So if you realize you need to fix or tweak something, you'll need to be sure to SSH into the PI and avail yourself of <code>pkill</code> before the script stops. (In my experience, there's plenty of time to do this. And if you miss your window, you can always reboot the Pi and try again!)
