@@ -114,7 +114,8 @@ else:
 	draw.text((10, 60), battery_warning, font=unicode_font, embedded_color=True)
 epd.display(epd.getbuffer(Himage))
 
-# It's super importan to sleep the display when you're done updating, otherwise you could damage it
+# It's super important to sleep the display when you're done updating, otherwise you could damage it
+
 epd.sleep()
 
 call("sudo shutdown -h now", shell=True)
