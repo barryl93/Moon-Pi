@@ -1,7 +1,7 @@
 # Moon-Pi
 An ePaper moon calendar powered by Raspberry Pi
 
-![IMG_9535](https://github.com/barryl93/Moon-Pi/assets/39839859/e3b3a1f5-d8be-43fe-9456-959c7cb89944)
+![IMG_9535](https://github.com/barryl93/Moon-Pi/assets/39839859/7b96522b-2f72-4b4d-bb55-57c7d8657edb)
 
 OK, so you want to build a moon-a-day calendar! Let's get started. You'll need the following:
 
